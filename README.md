@@ -1,3 +1,3 @@
 # AR-PROJECT
 
-## AR Used for Furniture Shopping
+## AR Used for Furniture Shopping.
