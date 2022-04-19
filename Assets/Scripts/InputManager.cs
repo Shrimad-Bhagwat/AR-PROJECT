@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 
 public class InputManager : MonoBehaviour
 {
@@ -62,5 +63,20 @@ public class InputManager : MonoBehaviour
             crosshair.transform.position = pose.position;
             crosshair.transform.eulerAngles = new Vector3(90,0,0);
         }
+    }
+
+    public void HomeSceneloader()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    public void Scene1loader()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+    public void Scene2loader()
+    {
+        SceneManager.LoadScene(2);
     }
 }
