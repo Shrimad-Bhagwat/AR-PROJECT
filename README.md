@@ -14,16 +14,14 @@ AR-Furniture is an Augmented Reality app to solve the shopping problem of custom
 </div>
 
 <div align="center">
-<img src="./PROJECT%20IMAGES/HOME.jpg" alt="img" width="200"/>
-<img src="./PROJECT%20IMAGES/MENU.jpg" alt="img" width="200"/>
-<img src="./PROJECT%20IMAGES/ABOUT.jpg" alt="img" width="200"/>
-<img src="./PROJECT%20IMAGES/CONTACT.jpg" alt="img" width="200"/>
-<img src="./PROJECT%20IMAGES/INSTRUCTIONS.jpg" alt="img" width="200"/>
-<img src="./PROJECT%20IMAGES/SCENE.jpg" alt="img" width="200"/>
+<img src="./PROJECT%20IMAGES/HOME.jpg" alt="img" width="300"/>
+<img src="./PROJECT%20IMAGES/MENU.jpg" alt="img" width="300"/>
+<img src="./PROJECT%20IMAGES/ABOUT.jpg" alt="img" width="300"/>
+<img src="./PROJECT%20IMAGES/CONTACT.jpg" alt="img" width="300"/>
+<img src="./PROJECT%20IMAGES/INSTRUCTIONS.jpg" alt="img" width="300"/>
+<img src="./PROJECT%20IMAGES/SCENE.jpg" alt="img" width="300"/>
 </div>
 
-<a align="center" src="https://github.com/Shrimad-Bhagwat">
-
+<div align="center">
 &copy; Shrimad Bhagwat
-
-</a>
+</div>
