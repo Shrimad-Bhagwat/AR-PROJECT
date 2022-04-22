@@ -1,9 +1,29 @@
-# AR-PROJECT
+<div align="center">
+
+# AR-FURNITURE
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## AR Used for Furniture Shopping.
+<img src="./PROJECT%20IMAGES/AR%20LOGO.png" alt="drawing" width="200"/>
+</div>
 
-Demo
+<div align="center">
 
-![](https://github.com/Shrimad-Bhagwat/AR-PROJECT/blob/main/AR%20APP.png?raw=true)
+AR-Furniture is an Augmented Reality app to solve the shopping problem of customer, which allows them to try furniture in their home environment before acutally purchasing it.
+
+</div>
+
+<div align="center">
+<img src="./PROJECT%20IMAGES/HOME.jpg" alt="img" width="200"/>
+<img src="./PROJECT%20IMAGES/MENU.jpg" alt="img" width="200"/>
+<img src="./PROJECT%20IMAGES/ABOUT.jpg" alt="img" width="200"/>
+<img src="./PROJECT%20IMAGES/CONTACT.jpg" alt="img" width="200"/>
+<img src="./PROJECT%20IMAGES/INSTRUCTIONS.jpg" alt="img" width="200"/>
+<img src="./PROJECT%20IMAGES/SCENE.jpg" alt="img" width="200"/>
+</div>
+
+<a align="center" src="https://github.com/Shrimad-Bhagwat">
+
+&copy; Shrimad Bhagwat
+
+</a>
