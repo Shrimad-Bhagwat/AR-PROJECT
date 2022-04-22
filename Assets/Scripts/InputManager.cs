@@ -79,4 +79,9 @@ public class InputManager : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
+    public void Close_Instructions()
+    {
+        GameObject.Find("Instruction_Panel").SetActive(false);
+
+    }
 }

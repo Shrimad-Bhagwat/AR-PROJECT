@@ -9,11 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: d2257c56e4651ae42943634757c0b804
   - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: ca9c204c7dbee5b4097845333cf50b1a
+  - enabled: 1
     path: Assets/Scenes/V5.1.unity
     guid: 5ddda1c9c7671e045ab33d40aa30beb9
   - enabled: 1
     path: Assets/Scenes/About page.unity
     guid: ab322d5c21aa26847af6998d24b4dff2
+  - enabled: 1
+    path: Assets/Scenes/Contact Us.unity
+    guid: f66834a8b4631ca4ba1f2ef0850af7d1
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 8d8d946b7f136a446957f5754f9e3f3e,
       type: 2}

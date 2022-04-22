@@ -15,4 +15,4 @@ MonoBehaviour:
   price: 0
   itemPrefab: {fileID: 1833557335628106038, guid: 47e91d57ad4cf5f45bce1c90b90ef009,
     type: 3}
-  itemImage: {fileID: 21300000, guid: 95e7e13c0692f8247b80f94fee55a85c, type: 3}
+  itemImage: {fileID: 21300000, guid: 77d575ca2dcd9494ab7346896669a34a, type: 3}
